@@ -1,0 +1,7 @@
+{
+  "name": "exUni",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
